@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.opendb
+*.suo
+/parvatdb/parvatdb.VC.db
+*.filters
