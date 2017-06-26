@@ -35,3 +35,5 @@
 /parvatdb/parvatdb.VC.db
 *.filters
 /parvatdb/parvatdb.aps
+/galexdb/Debug
+/galexdb/galexdb.VC.db
