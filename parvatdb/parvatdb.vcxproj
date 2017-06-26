@@ -142,7 +142,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\src\db_creator.cpp" />
     <ClCompile Include="main.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\db_creator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -34,3 +34,4 @@
 *.suo
 /parvatdb/parvatdb.VC.db
 *.filters
+/parvatdb/parvatdb.aps
